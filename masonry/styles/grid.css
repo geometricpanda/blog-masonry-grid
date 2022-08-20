@@ -1,0 +1,19 @@
+.grid {
+    max-width: 1024px;
+    margin: 16px auto;
+    display: grid;
+    gap: 16px;
+    grid-auto-flow: dense;
+}
+
+@media (min-width: 48em) {
+    .grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (min-width: 64em) {
+    .grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}

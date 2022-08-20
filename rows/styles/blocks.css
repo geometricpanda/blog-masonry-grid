@@ -1,0 +1,9 @@
+.block {
+    background: linear-gradient(90deg, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+    min-height: 300px;
+}
+
+.block--tall {
+    grid-row: span 2;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}

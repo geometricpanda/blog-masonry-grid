@@ -1,0 +1,22 @@
+{
+  "name": "blog-example-css-masonry-style-grid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geometricpanda/blog-example-css-masonry-style-grid.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geometricpanda/blog-example-css-masonry-style-grid/issues"
+  },
+  "homepage": "https://github.com/geometricpanda/blog-example-css-masonry-style-grid#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
